@@ -1,0 +1,17 @@
+#my-section {
+  height: 500px;
+  border: 5px solid blue;
+}
+.box {
+  width:150px;
+  height:150px;
+  background-color: gray;
+  display: inline-block;
+  margin: 15px;
+}
+.yellow {
+  background-color: yellow;
+}
+.red {
+  background-color: red;
+}
