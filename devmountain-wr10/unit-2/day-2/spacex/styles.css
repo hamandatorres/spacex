@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding; 0;
+  box-sizing: border-box;
+}
+body {
+  height:100vh;
+}
+.level1 {
+  width:100%;
+  height:15vh;
+  background-color:;
+  justify-content: flex-start;
+  align-items: baseline;
+  align-content: space-between;
+  border: 2px solid black;
+}
+.spacex {
+  width: 200px;
+  text-align: center;
+  letter-spacing: 5px;
+}
+.word {
+   margin: 10px;
+   display:inline-block;
+   border: 2px solid black;
+   font-family: 'Courier New', Courier, monospace;
+  }
+.shop {
+  display: inline-flex;
+  position: relative;
+  left: 30%;
+  border: 2px solid black;
+
+}
+.dropdown {
+  display: inline-flex;
+  position: relative;
+  left: 40%;
+}
+.level2 {
+  border: 2px solid black;
+  height: 50vh;
+  justify-content: space-evenly;
+}
+.starlink {
+  height: 100px;
+  margin-left: 10vh;
+  margin-right: auto;
+  width: 50vh;
+  border: 2px solid black;
+}
+.recent-launch {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: left;
+
+}
+.starlink-mission {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: left;
+  line-height: 0;
+}
+button {
+
+}
