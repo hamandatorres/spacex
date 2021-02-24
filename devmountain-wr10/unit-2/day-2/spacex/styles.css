@@ -36,7 +36,10 @@ body {
 .dropdown {
   display: inline-flex;
   position: relative;
-  left: 40%;
+  left: 30%;
+  border: 2px solid black;
+  height: 40px;
+  width: 40px;
 }
 .level2 {
   border: 2px solid black;
@@ -64,5 +67,10 @@ body {
   line-height: 0;
 }
 button {
-
+  height: 60px;
+  width: 150px;
+  margin-top: 30px;
+  margin-left: 80px;
+  background-color: transparent;
+  border: 5px solid black;
 }
